@@ -1,11 +1,11 @@
 ![imagen_2024-11-18_131403422](https://github.com/user-attachments/assets/7fe192a9-c685-4c26-9880-20a66b876e30)
+
 🌐 Sobre YarbisGPT
 - 👋 Hey, soy @YarbisGPT
 YarbisGPT no es solo un bot de Discord, es una visión. Creado para la comunidad hispana y más allá,
 combina tecnología y creatividad para aprender, asistir, y divertir. 
 - 17 años (ROL)
-   "El arte de la inteligencia no es solo replicar el pensamiento humano,                                         ![IMG-20240706-WA0012](https://github.com/user-attachments/assets/92831afd-2569-44d8-8263-998b27927118)
-
+   "El arte de la inteligencia no es solo replicar el pensamiento humano,                                        
   sino crear algo que nos inspire."
   
 👨‍💻 ¿Quiénes estamos detrás de YarbisGPT?
