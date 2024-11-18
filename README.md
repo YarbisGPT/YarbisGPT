@@ -5,11 +5,11 @@
 YarbisGPT no es solo un bot de Discord, es una visión. Creado para la comunidad hispana y más allá,
 combina tecnología y creatividad para aprender, asistir, y divertir. 
 - 17 años (ROL)
-   "El arte de la inteligencia no es solo replicar el pensamiento humano,                                        
+   - "El arte de la inteligencia no es solo replicar el pensamiento humano,                                        
   sino crear algo que nos inspire."
   
 👨‍💻 ¿Quiénes estamos detrás de YarbisGPT?
-Somos un equipo de cuatro desarrolladores apasionados por la tecnología y el potencial de la inteligencia artificial.
+- Somos un equipo de cuatro desarrolladores apasionados por la tecnología y el potencial de la inteligencia artificial.
  Desde 2020, nos dedicamos a diseñar algoritmos y lenguajes que no solo simulan tareas cotidianas, sino que también inspiran curiosidad.
  Nuestro objetivo: transformar ideas complejas en herramientas accesibles y útiles para todos.
 
@@ -22,11 +22,11 @@ Objetivo actual:
 - Llevar a Yarbis de su fase beta a una aplicación estable que pueda integrarse a la vida diaria.
 
 🎯 Proyectos y visión
-YarbisGPT abarca múltiples plataformas y no se limita a Discord.
+- YarbisGPT abarca múltiples plataformas y no se limita a Discord.
 Nuestra meta es ofrecer aprendizaje y entretenimiento, mientras aportamos algo valioso a la comunidad en este emocionante mundo de la IA.
 
 📬 Contacto y comunidad
-💌 Email: nagsirzz@gmail.com
-📸 Instagram: @yarbis.s | @YarbisGPT
+- 💌 Email: nagsirzz@gmail.com
+- 📸 Instagram: @yarbis.s | @YarbisGPT
 
 "En algún momento, el desarrollo deja de ser solo trabajo; se convierte en un arte, mezclando lógica y creatividad con una pizca de humor."
