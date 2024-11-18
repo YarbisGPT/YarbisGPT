@@ -10,14 +10,20 @@ combina tecnología y creatividad para aprender, asistir, y divertir.
   sino crear algo que nos inspire."
   
 👨‍💻 ¿Quiénes estamos detrás de YarbisGPT?
-- Somos un equipo de cuatro desarrolladores apasionados por la tecnología y el potencial de la inteligencia artificial.
- Desde 2020, nos dedicamos a diseñar algoritmos y lenguajes que no solo simulan tareas cotidianas, sino que también inspiran curiosidad.
+- Somos un equipo de cuatro desarrolladores apasionados por la tecnología y
+ el potencial de la inteligencia artificial.
+ Desde 2020, nos dedicamos a diseñar algoritmos y lenguajes que no solo simulan tareas cotidianas,
+ sino que también inspiran curiosidad.
  Nuestro objetivo: transformar ideas complejas en herramientas accesibles y útiles para todos.
 
 🚀 Tecnologías y habilidades
-Lenguajes dominados:
-- Python, JavaScript, Roblox Lua.
+Lenguajes dominados
+↳
+- Python https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg, JavaScript https://camo.githubusercontent.com/526004008fc1a050cd90c775e445d9a9c801165de555406494be8dd5bc7d98ce/68747470733a2f2f692e696d6775722e636f6d2f586a623836376a2e706e67, Roblox Lua.
+
 Intereses destacados:
+
+
 -Modelos de IA, redes sociales, y simulaciones que replican experiencias cotidianas.
 Objetivo actual:
 - Llevar a Yarbis de su fase beta a una aplicación estable que pueda integrarse a la vida diaria.
