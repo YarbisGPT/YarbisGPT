@@ -2,6 +2,7 @@
 
 🌐 Sobre YarbisGPT
 - 👋 Hey, soy @YarbisGPT
+
 YarbisGPT no es solo un bot de Discord, es una visión. Creado para la comunidad hispana y más allá,
 combina tecnología y creatividad para aprender, asistir, y divertir. 
 - 17 años (ROL)
