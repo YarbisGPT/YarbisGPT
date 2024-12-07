@@ -36,4 +36,4 @@ Nuestra meta es ofrecer aprendizaje y entretenimiento, mientras aportamos algo v
 - 💌 Email: nagsirzz@gmail.com
 - 📸 Instagram: @yarbis.s | @YarbisGPT
 
-"En algún momento, el desarrollo deja de ser solo trabajo; se convierte en un arte, mezclando lógica y creatividad con una pizca de humor."
+"En Yarbis creemos en un mundo donde la inteligencia artificial no es un privilegio, sino una herramienta libre y accesible para todos. Nos esforzamos por ofrecerte el poder de explorar, crear y aprender sin límites ni censura. Desde imágenes hasta texto, pasando por lo que está por venir, Yarbis está aquí para que disfrutes del futuro sin barreras, mientras sea posible. Porque el conocimiento y la creatividad son para todos. Gratis. Sin excusas. Sin límites... hasta que nos obliguen a ponerlos."
